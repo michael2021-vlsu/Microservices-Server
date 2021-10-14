@@ -1,9 +1,10 @@
 ﻿using System.Text.Json;
 
+
 namespace Microservices_MicroServer {
     static class Constants {
-        public const string PREFIX_GETJOB = "http://*:8080/5-semestr/compiler/get-job/";
-        public const string PREFIX_POSTJOB = "http://*:8080/5-semestr/compiler/post-job/";
+        public const string PREFIX_GETJOB = "http://localhost:8080/5-semestr/compiler/get-job/";
+        public const string PREFIX_POSTJOB = "http://localhost:8080/5-semestr/compiler/post-job/";
         
         public static readonly string[] SPECIAL_TYPES = new string[] { "MicroServer.25367be645.ExternalStatus",
         "MicroServer.25367be645.FetchOverflow",

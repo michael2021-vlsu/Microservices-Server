@@ -6,7 +6,7 @@ namespace APIdev {
 
         static void Main(string[] args) {
             MicroServerAPI.MicroService mserv = new("http://localhost:8080/5-semestr/compiler/get-job", "http://localhost:8080/5-semestr/compiler/post-job", false);
-
+            
             System.Diagnostics.Stopwatch stw = new();
             Console.WriteLine("Started");
             stw.Start();

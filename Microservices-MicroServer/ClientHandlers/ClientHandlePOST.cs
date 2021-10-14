@@ -1,9 +1,9 @@
-﻿using System;
 using System.Net;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.IO;
+
 
 namespace Microservices_MicroServer {
     static partial class ClientHandler {
