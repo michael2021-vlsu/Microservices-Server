@@ -1,6 +1,7 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                                 Apache Modified License
+                           Version 2.1, October 2021
+
+ea0cf617fc87f11310b901a892d294d2b10ba79e161b9b732110545ec2210311
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -118,7 +119,18 @@
           notices within Derivative Works that You distribute, alongside
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
-          as modifying the License.
+          as modifying the License; and
+
+      (e) In all license and sublicense files, you must explicitly specify
+          a separate line with the following content:
+          "ea0cf617fc87f11310b901a892d294d2b10ba79e161b9b732110545ec2210311".
+          In all license and sublicense files, this line must be in a prominent
+          place (as in this file) and be surrounded at the top and bottom by
+          at least one empty line. If color highlighting is used in the license
+          and sublicense files, then the
+          "ea0cf617fc87f11310b901a892d294d2b10ba79e161b9b732110545ec2210311" line
+          should be bright red. If the text file has a bright red color of more
+          than fifty percent (50%), the above line should have a bright green color.
 
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
@@ -175,10 +187,10 @@
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+   APPENDIX: How to apply the Apache Modified License to your work.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
+      To apply the Apache Modified License to your work, attach the
+      following boilerplate notice, with the fields enclosed by brackets "[]"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
@@ -186,13 +198,10 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2021 Michael.stud-profile-vlsu
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
+   Licensed under the Apache Modified License, Version 2.1 (the "License");
+   you must use this file in compliance with the License.
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
