@@ -1,5 +1,5 @@
 # Microservices Server
-[![Version](https://img.shields.io/badge/LICENSE-Apache%20Modifed%20License-green?style=flat&logoWidth=15&logo=.NET)](/LICENSE)
+[![Version](https://img.shields.io/badge/LICENSE-Apache%20Modified%20License-green?style=flat&logoWidth=15&logo=.NET)](/LICENSE)
 
 В этом репозитории представлены следующие компоненты:
 * Сервер ([здесь](/Microservices-MicroServer))
@@ -13,6 +13,6 @@
 * Сервера - [здесь](https://github.com/michael2021-vlsu/Microservices-Server/blob/micromaster/Documentation%20Microservices-MicroServer.pdf)
 * Отладчика - [здесь](https://github.com/michael2021-vlsu/Microservices-Server/blob/micromaster/Documentation%20MicroServer.Debugger.pdf)
 * Клиента для Python - [здесь](https://github.com/michael2021-vlsu/Microservices-Server/blob/micromaster/Documentation%20API-Python.pdf)
-* Клиента для C#
+* Клиента для C# - [здесь](https://github.com/michael2021-vlsu/Microservices-Server/blob/micromaster/Documentation%20API-C%23.pdf)
 
 ### Первое знакомство рекомендуется начать с документации клиента (например, для [Python](https://github.com/michael2021-vlsu/Microservices-Server/blob/micromaster/Documentation%20API-Python.pdf))
