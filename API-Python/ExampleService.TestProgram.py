@@ -1,7 +1,7 @@
 import MicroServerAPI
 
-serv = MicroServerAPI.MicroService(url_get='http://localhost:8080/microserver/get-job',
-                                   url_post='http://localhost:8080/microserver/post-job',
+serv = MicroServerAPI.MicroService(url_get='http://localhost:8080/5-semestr/compiler/get-job',
+                                   url_post='http://localhost:8080/5-semestr/compiler/post-job',
                                    persistentMode=True)
 
 while True:
